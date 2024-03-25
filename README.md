@@ -16,3 +16,7 @@
 * Nested routing
 
 ![1711285433218](image/README/1711285433218.png)
+
+### * Dynamic Routing
+
+![1711342464232](image/README/1711342464232.png)

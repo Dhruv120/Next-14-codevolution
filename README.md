@@ -19,15 +19,22 @@
 
 ### * Dynamic Routing
 
-![1711342464232](image/README/1711342464232.png) 
-
+![1711342464232](image/README/1711342464232.png)
 
 ### * **Catch All segment**
 
-![1711342913313](image/README/1711342913313.png) 
+![1711342913313](image/README/1711342913313.png)
 
-![1711343027097](image/README/1711343027097.png) 
+![1711343027097](image/README/1711343027097.png)
 
 ### * **404 PAGE**
 
 ![1711343181018](image/README/1711343181018.png)
+
+* Private Folder
+* ![1711423134163](image/README/1711423134163.png)
+* Routing groups
+
+![1711423269230](image/README/1711423269230.png)
+
+put all 3 folder in auth folder , and rename the auth folder as "(auth)" , so now no need to give auth in route

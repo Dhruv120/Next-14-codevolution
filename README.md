@@ -38,3 +38,26 @@
 ![1711423269230](image/README/1711423269230.png)
 
 put all 3 folder in auth folder , and rename the auth folder as "(auth)" , so now no need to give auth in route
+
+* **NAVIGATION**
+
+![1711609451273](image/README/1711609451273.png)
+
+### * **Templates**
+
+![1711609739781](image/README/1711609739781.png) 
+
+They are same a layout , just replace layout.tsx with template.tsx
+
+---
+
+
+
+Special files till now
+
+![1711609819759](image/README/1711609819759.png)
+
+
+### * **Loading file - loading.tsx**
+
+### * **error file - error.tsx**
